@@ -58,7 +58,7 @@ const Orders = () => {
                       ₹ {item.price}
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                      {item.customerName}
+                      {item.name}
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
                       {item.address}
